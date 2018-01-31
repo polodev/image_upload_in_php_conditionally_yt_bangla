@@ -1,0 +1,9 @@
+isset()
+file_exists()
+explode() //.
+implode() //.
+mkdir()
+in_array()
+end(); 
+move_uploaded_file()
+empty()
