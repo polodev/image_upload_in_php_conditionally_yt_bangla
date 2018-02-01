@@ -1,4 +1,4 @@
-# simple file uploading in php
+# image file uploading in php
 
 <hr>
 
